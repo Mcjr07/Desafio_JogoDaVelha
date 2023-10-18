@@ -1,8 +1,6 @@
 ﻿using System;
 namespace Desafio_JogoDaVelha;
 
-using System;
-
 class Program
 {
     static char[,] tabuleiro = new char[3, 3];
