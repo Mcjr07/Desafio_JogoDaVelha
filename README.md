@@ -21,7 +21,6 @@ VerificarEmpate() - Verifica se houve um empate no jogo.
 TrocarJogador() - Alterna o jogador atual entre '1' e '2'.
 
 Uso:
-
 O programa começa com o jogador '1' e alterna entre os jogadores até que um deles vença ou haja um empate.
 Os jogadores fazem suas jogadas inserindo as coordenadas da linha (1-3) e da coluna (1-3).
 O jogo exibe o tabuleiro após cada jogada e informa o resultado do jogo.
