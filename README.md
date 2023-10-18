@@ -1,7 +1,7 @@
 # Desafio_JogoDaVelha da academia UFN/ATOS
 
 
- No primeiro jogo no arquivo program, os jogadores alternam entre '1' e '2', e o jogo continua até que um jogador vença ou haja um empate. 
+ No primeiro jogo, no arquivo program, os jogadores alternam entre '1' e '2', e o jogo continua até que um jogador vença ou haja um empate. 
  Os jogadores fazem suas jogadas escolhendo uma posição no tabuleiro 3x3, e o objetivo é conseguir três de suas marcas em linha horizontal, vertical ou diagonal.
 
 Componentes:
