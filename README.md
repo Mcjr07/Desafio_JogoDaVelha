@@ -26,6 +26,8 @@ Os jogadores fazem suas jogadas inserindo as coordenadas da linha (1-3) e da col
 O jogo exibe o tabuleiro após cada jogada e informa o resultado do jogo.
 Após o término de um jogo, o programa pergunta se os jogadores desejam jogar novamente. Digitar 'S' reiniciará o jogo.
 Esse é um jogo da velha simples em C# que permite que dois jogadores joguem em um console.
+
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Jogo da Velha
 
