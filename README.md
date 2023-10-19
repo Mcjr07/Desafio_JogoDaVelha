@@ -29,7 +29,7 @@ Esse é um jogo da velha simples em C# que permite que dois jogadores joguem em 
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Jogo da Velha
+Jogando contra o Computador(CPU)
 
 PLAY vs CPU 
 
