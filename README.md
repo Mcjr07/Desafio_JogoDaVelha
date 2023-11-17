@@ -1,4 +1,4 @@
-# Desafio_JogoDaVelha da academia UFN/ATOS
+# Desafio_JogoDaVelha da academia UFN
 
 
  No primeiro jogo, no arquivo program, os jogadores alternam entre '1' e '2', e o jogo continua até que um jogador vença ou haja um empate. 
